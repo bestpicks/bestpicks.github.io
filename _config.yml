@@ -3,7 +3,7 @@ name: "motirates"
 title: "motirates"
 description: "Leading blog website in product selection."
 logo: 'assets/images/logo.png'
-favicon: 'assets/images/logo.png'
+favicon: 'assets/images/logo3.png'
 baseurl: ''
 google_analytics: 'UA-xxxxxxxx-1'
 disqus: 'motirates'
