@@ -1,7 +1,7 @@
 # Site
 name: "motirates"
 title: "motirates"
-description: "[Leading blog website in product selection.]() We help customers pick the right choice and decide what's best for them."
+description: "Leading blog website in product selection."
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: ''
