@@ -3,11 +3,11 @@
 ---
 
 $brown: #B59F62;
-$teal: #5a00ff;
-$black: #110030;
+$teal: #40FFDC;
+$black: #111;
 $primary: $teal;
 $dark:    $black;
-$enable-rounded: true;
+$enable-rounded: false;
 
 @import "bootstrap/functions";
 @import 'bootstrap/variables';
@@ -22,7 +22,7 @@ body, input, button, select, optgroup, textarea {
 }
 body {
     line-height:1.7;
-    background: #f3f3f3;
+    background: #f4f4f4;
 }
 a {
     color: darken($primary, 24%);
@@ -150,7 +150,7 @@ img, img:hover {
             position: absolute;
             width: 18px;
             height: 2px;
-            background: #110030;
+            background: #292C30;
             border-radius: 1px;
         }
         &:before {
@@ -178,7 +178,7 @@ img, img:hover {
     left: 0;
     height: 100%;
     width: 100%;
-    background: #110030;
+    background: rgba(8, 11, 16, 0);
     z-index: -1;
     animation: animate2 .3s;
     &.active {
@@ -217,7 +217,7 @@ img, img:hover {
                 padding: 2vh 0px 2vh 0px;
                 line-height: 20px;
                 text-decoration: none;
-                color: #5a00ff;
+                color: #8E9AA7;
                 font-weight: 400;
                 font-size: 18px;
                 position: relative;
