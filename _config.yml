@@ -1,7 +1,7 @@
 # Site
 name: "motirates"
 title: "motirates"
-description: "Leading blog website in product selection."
+description: "Motirates, a leading blog website in product selection."
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo3.png'
 baseurl: ''
@@ -15,21 +15,13 @@ email: wowthemesnet@gmail.com
 # Authors
 authors:
   sal:
-    name: Sal
-    display_name: Sal
+    name: PJ
+    display_name: PJ
     avatar: 'assets/images/avatar-sal.png'
-    email: wowthemesnet@gmail.com
+    email: pijauk@gmail.com
     web: https://www.wowthemes.net/donate/
     twitter: https://twitter.com/wowthemesnet
     description: "Author of Memoirs, a Bootstrap Medium styled template available for Jekyll. You are currently previewing Jekyll template demo."
-  john:
-    name: John
-    display_name: John    
-    avatar: 'assets/images/avatar.png'
-    email: wowthemesnet@gmail.com
-    web: https://www.wowthemes.net
-    twitter: https://twitter.com/wowthemesnet
-    description: "Write a short description of the author here. You are currently previewing Memoirs demo, a Jekyll template compatible with Github pages."
 
 # Plugins
 plugins:
