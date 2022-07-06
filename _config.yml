@@ -1,6 +1,6 @@
 # Site
-name: "motirates"
-title: "motirates"
+name: "Motirates"
+title: "Motirates"
 description: "Motirates, a leading blog website in product selection."
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo3.png'
@@ -10,13 +10,13 @@ disqus: 'motirates'
 mailchimp-list: ''
 include: ["_pages"]
 permalink: /:title/
-email: wowthemesnet@gmail.com
+email: pijauk@gmail.com
 
 # Authors
 authors:
   sal:
-    name: PJ
-    display_name: PJ
+    name: pj
+    display_name: pj
     avatar: 'assets/images/avatar-sal.png'
     email: pijauk@gmail.com
     web: https://www.wowthemes.net/donate/
